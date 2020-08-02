@@ -3,5 +3,9 @@
      <loc>http://yourSite/</loc>
      <lastmod>2020-08-02</lastmod>
      <changefreq>daily</changefreq>
+    </url><url>
+     <loc>http://yourSite/1.test/</loc>
+     <lastmod>2020-08-02</lastmod>
+     <changefreq>daily</changefreq>
     </url>
 </urlset>
